@@ -14,6 +14,10 @@ Este es un proyecto de **gestión de cuentas bancarias** desarrollado en **JavaS
 - 🔄 **Transferir dinero**: Permite transferir dinero entre las dos cuentas.
 - ❌ **Salir**: Opción para salir del sistema.
 
+## 📷 Captura de Pantalla
+
+![Vista previa del proyecto](imagenes/Foto_BancoJS.png)
+
 ## 🔧 Requisitos
 
 Este proyecto requiere un entorno para ejecutar JavaScript (puedes usar Node.js o simplemente un navegador).
