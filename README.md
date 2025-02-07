@@ -1,6 +1,6 @@
 # 🏦 Gestión de Cuentas Bancarias Simplificada
 
-![Build Status](https://travis-ci.com/mariodiazzz11/GestionBanco.svg?branch=main)
+![Build Status](https://travis-ci.com/mariodiazzz11/GestionCuentasBancarias.svg?branch=main).
 ![License](https://img.shields.io/badge/license-MIT-blue)
 
 Este es un proyecto de **gestión de cuentas bancarias** desarrollado en **JavaScript**. Permite la gestión de dos cuentas bancarias ficticias, con funciones para consultar saldo, depositar dinero, retirar dinero, ver historial de transacciones y realizar transferencias.
